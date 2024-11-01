@@ -1,0 +1,15 @@
+
+            %BeginItemsRecord%
+         
+
+    
+        <ul>
+       <A href=%ItemLink%>%ItemTitle%</A><br>
+%ItemDescription%
+        </ul>
+        
+
+
+
+            %EndItemsRecord%
+    
